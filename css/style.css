@@ -40,7 +40,7 @@ span.resaltado {
     float: right;
     height: 445px;
     width: 50%;
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(https://dummycreativo.github.io/exercise-card-frontendmentoring/images/image-header-desktop.jpg);
     background-repeat: no-repeat;
     border-radius: 0 10px 10px 0;
     margin-top: -39.5%;
@@ -152,7 +152,7 @@ span.resaltado {
     .primer-columna-mobile {
         position: relative;
         visibility: visible;
-        background-image: url(/images/image-header-mobile.jpg);
+        background-image: url(https://dummycreativo.github.io/exercise-card-frontendmentoring/images/image-header-mobile.jpg);
         background-size: cover;
         border-radius: 10px 10px 0px 0px;
         height: 190px;
