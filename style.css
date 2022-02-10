@@ -18,7 +18,7 @@ span.resaltado {
     color: hsl(277, 64%, 61%);
 }
 .card-contenedor {
-    margin: 12%;
+    margin: 20% 13%;
     width: 75%;
     height: 445px;
     background: hsl(244, 38%, 16%);
