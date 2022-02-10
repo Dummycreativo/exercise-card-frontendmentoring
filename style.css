@@ -65,7 +65,8 @@ span.resaltado {
     float: left;
 }
 
-@media screen and (max-device-width: 1366px) {
+
+@media screen and (max-width: 1366px)  {
 
     .segunda-columna {
         margin-top: -42.6%;
@@ -92,7 +93,7 @@ span.resaltado {
 
 }
 
-@media screen and (max-device-width: 768px) { 
+@media screen and (min-device-width: 768px) and (max-device-width: 1023px) { 
 
     h1, h3 {
         font-size: 20px;
@@ -118,7 +119,7 @@ span.resaltado {
     
 
 }
-@media screen and (max-device-width: 375px) { 
+@media screen and (min-device-width: 320px) and (max-device-width: 425px) { 
     body {
         max-height: 760px;
     }
